@@ -19,7 +19,7 @@ class _HomePageState extends State<HomePage> {
               Navigator.pushNamed(context, DetailPage.id);
             },
             
-            child: Text("Details"),
+            child: Text("Details page"),
         ),
       ),
     );
